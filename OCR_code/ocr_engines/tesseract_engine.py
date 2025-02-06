@@ -1,4 +1,5 @@
 # Tesseract 설치(https://github.com/UB-Mannheim/tesseract/wiki)
+# -> 설치 시 add script, add language 옵션에서 한글 관련 옵션 체크하기
 # C:\Program Files\Tesseract-OCR -> 환경변수 등록 
 
 import pytesseract # pip install pytesseract
