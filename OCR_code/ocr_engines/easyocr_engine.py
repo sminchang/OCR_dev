@@ -1,3 +1,5 @@
+# easyocr은 작업하는 파일 중 파일경로 및 파일명에 한글이 껴있으면 오류 난다.
+
 import easyocr # pip install easyocr
 from utils.image_util import put_text
 import cv2
