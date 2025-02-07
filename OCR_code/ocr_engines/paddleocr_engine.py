@@ -1,5 +1,4 @@
 # paddleocr은 python3.8에서 설치된다. 3.9 이상에서는 설치 안된다.
-# paddleocr은 작업하는 파일 중 파일명에 한글이 껴있으면 오류 난다.
 
 from paddleocr import PaddleOCR # pip install paddlepaddle paddleocr
 from utils.image_util import put_text
